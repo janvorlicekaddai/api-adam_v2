@@ -23,7 +23,7 @@
 
         <io.springfox.version>2.9.2</io.springfox.version>
 
-        <com.fasterxml.jackson.version>2.10.2</com.fasterxml.jackson.version>
+        <com.fasterxml.jackson.version>2.13.4.1</com.fasterxml.jackson.version>
     </properties>
 
     <dependencies>
